@@ -1,0 +1,2 @@
+flyway -url='jdbc:postgresql://localhost:5432/postgres' -user='postgres' -password='fireFly88' -locations='filesystem:sql/' migrate
+
